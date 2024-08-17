@@ -1,0 +1,11 @@
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe.config
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.exe
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.pdb
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\bin\Debug\ReadTextFile.xml
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.vbproj.AssemblyReference.cache
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.Resources.resources
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.vbproj.GenerateResource.cache
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.vbproj.CoreCompileInputs.cache
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.exe
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.xml
+D:\LiberKey\MyDocuments\source\repos\ReadTextFile\ReadTextFile\obj\Debug\ReadTextFile.pdb
